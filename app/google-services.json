@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "709229469528",
+    "firebase_url": "https://teknokita-32bd0.firebaseio.com",
+    "project_id": "teknokita-32bd0",
+    "storage_bucket": "teknokita-32bd0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709229469528:android:e8af757a792ddd68",
+        "android_client_info": {
+          "package_name": "mobile.project.teknokitah"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "709229469528-k3msg9umm629d1je987dp5ucd3ld2n2l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mobile.project.teknokitah",
+            "certificate_hash": "7df4b04aced522b82a4dcc20373cebe2400232f8"
+          }
+        },
+        {
+          "client_id": "709229469528-9in5jss5u414c7l6e9ftbtuaq5f159cj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBH1PDDvPVvw_5fnIGw6QAIu3pciSyH9q0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "709229469528-9in5jss5u414c7l6e9ftbtuaq5f159cj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
